@@ -1,0 +1,7 @@
+.certificate-item{
+    width: 50%;
+}
+
+.certificate-item  > img{
+    height: 300px;
+}
